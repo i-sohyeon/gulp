@@ -1,0 +1,63 @@
+/*변수*/
+$white: #fff !default;
+$gray-base: #181b1e !default;
+$gray-100: #f0f3f5 !default; // lighten($gray-base, 85%);
+$gray-200: #e4e7ea !default; // lighten($gray-base, 80%);
+$gray-300: #c8ced3 !default; // lighten($gray-base, 70%);
+$gray-400: #acb4bc !default; // lighten($gray-base, 60%);
+$gray-500: #8f9ba6 !default; // lighten($gray-base, 50%);
+$gray-600: #73818f !default; // lighten($gray-base, 40%);
+$gray-700: #5c6873 !default; // lighten($gray-base, 30%);
+$gray-800: #2f353a !default; // lighten($gray-base, 10%);
+$gray-900: #23282c !default; // lighten($gray-base, 5%);
+$black: #000 !default;
+
+$blue: #20a8d8 !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #e83e8c !default;
+$red: #e7161a !default;
+$danger-dark: #d93737 !default;
+$danger: #e55353 !default;
+$danger-50: #f2a9a9 !default;
+$danger-25: #f9d4d4 !default;
+$orange: #f8cb00 !default;
+$yellow: #ffbb00 !default;
+$green: #4dbd74 !default;
+$teal: #20c997 !default;
+$cyan: #17a2b8 !default;
+$light-blue: #63c2de !default;
+
+
+$primary: $red !default;
+$secondary: $gray-300 !default;
+$success: $green !default;
+$info: $light-blue !default;
+$warning: $red !default;
+$danger: $danger !default;
+$light: $gray-100 !default;
+$dark: $gray-800 !default;
+
+$boderGray : #adadad;
+$boderGray2 : #999;
+$boderwhiteOp : rgba(255, 255, 255, 0.15);
+$mainTextColor : #333;
+$mainTextColor2 : #555;
+$mainTextColor3 : #222;
+$mainTextColor4 : #444;
+$mainTextColor5 : #666;
+$whiteColor : #fff;
+$blackColor : #000;
+$width100 : 100%;
+$mainCopyright : #061536;
+$subBgColor : #e7edf1;
+$subTextColor: #302920;
+$bgTextColor: #1c1d1f;
+$mainButtonColor : #e7161a;
+$radiusBox : #839dd6;
+
+// stylelint-disable value-keyword-case
+$font-family-base: "Noto Sans SC",
+"Noto Sans HK",
+"Noto Sans KR",
+sans-serif !default;

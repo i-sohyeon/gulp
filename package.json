@@ -1,0 +1,48 @@
+{
+	"name": "masterHtml",
+	"description": "Master Gulp HTML",
+	"authors": [
+		"YM"
+	],
+	"version": "1.0.0",
+	"homepage": "",
+	"scripts": {
+		"gulp": "gulp"
+	},
+	"dependencies": {
+		"@fancyapps/fancybox": "^3.5.7",
+		"autoprefixer": "^9.8.6",
+		"babel-preset-es2015": "^6.24.1",
+		"bootstrap": "^4.3.1",
+		"bootstrap-daterangepicker": "^3.0.5",
+		"bootstrap-toggle": "^2.2.2",
+		"browser-sync": "^2.26.7",
+		"chart.js": "^2.8.0",
+		"datepicker-bootstrap": "^1.9.13",
+		"font-awesome": "^4.7.0",
+		"gulp-autoprefixer": "^3.1.1",
+		"gulp-babel": "^6.1.3",
+		"gulp-cache": "^1.1.1",
+		"gulp-concat": "^2.6.1",
+		"gulp-cssnano": "^2.1.3",
+		"gulp-file-include": "^1.1.0",
+		"gulp-jshint": "^2.1.0",
+		"gulp-rename": "^1.2.3",
+		"gulp-sass": "^3.2.1",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-uglify": "^2.1.2",
+		"gulp-wait": "0.0.2",
+		"jquery": "1.12.4",
+		"jquery-validation": "^1.19.1",
+		"jshint": "^2.9.5",
+		"node-sass": "^4.13.1",
+		"pc-bootstrap4-datetimepicker": "^4.17.50",
+		"perfect-scrollbar": "^1.4.0",
+		"popper.js": "^1.15.0",
+		"readable-stream": "^3.4.0",
+		"simple-line-icons": "^2.4.1"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1"
+	}
+}

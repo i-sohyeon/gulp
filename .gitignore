@@ -1,0 +1,44 @@
+# Eclipse
+.classpath
+.project
+.settings/
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.sts4-cache
+.classpath
+.project
+.settings/
+
+# vscode
+.vscode/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Java
+*.class
+
+# Mac
+.DS_Store
+
+# Sass
+
+node_modules
+node_modules.windows
+node_modules.mac
+npm-debug.log
+
+dist/
+
+# file : ~ / .gitignore_global
