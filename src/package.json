@@ -1,0 +1,13 @@
+{
+  "name": "project_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "gulp dev",
+    "build" : "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
